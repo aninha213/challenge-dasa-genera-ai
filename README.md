@@ -13,6 +13,18 @@ O projeto Genera AI tem como objetivo transformar relatórios genéticos em PDF 
 A solução busca facilitar a interpretação de exames genéticos do Genera, permitindo que pacientes compreendam seus resultados em linguagem simples e possam interagir com os dados através de um assistente inteligente.
 
 ---
+## Protótipo Inicial
+
+O projeto possui uma estrutura inicial em Python utilizando Streamlit para exibição dos dados genéticos estruturados em JSON.
+
+O protótipo simula:
+
+- leitura dos dados do relatório;
+- visualização das predisposições genéticas;
+- organização estruturada das informações;
+- base para integração futura com IA e chatbot.
+
+---
 
 ## Problema
 
