@@ -1,1 +1,29 @@
-
+{
+  "paciente": {
+    "nome": "João Silva",
+    "idade": 35,
+    "sexo": "Masculino"
+  },
+  "predisposicoes": [
+    {
+      "condicao": "Hipertensão",
+      "risco": "Moderado",
+      "descricao": "Predisposição genética moderada para hipertensão arterial."
+    },
+    {
+      "condicao": "Diabetes Tipo 2",
+      "risco": "Baixo",
+      "descricao": "Baixa predisposição genética."
+    },
+    {
+      "condicao": "Obesidade",
+      "risco": "Elevado",
+      "descricao": "Maior tendência genética ao ganho de peso."
+    }
+  ],
+  "ancestralidade": {
+    "europeia": "65%",
+    "africana": "20%",
+    "asiatica": "15%"
+  }
+}
