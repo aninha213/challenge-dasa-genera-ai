@@ -55,6 +55,11 @@ O sistema permitirá:
 | Laboratório | Melhorar experiência do cliente |
 
 ---
+## Arquitetura da Solução
+
+![Arquitetura](docs/arquitetura.png)
+
+---
 
 ## Pipeline da Solução
 
@@ -66,6 +71,8 @@ O sistema permitirá:
 6. Busca contextual com RAG;
 7. Resposta da IA;
 8. Exibição no dashboard e chatbot.
+
+![Pipeline](docs/pipeline.png)
 
 ---
 
